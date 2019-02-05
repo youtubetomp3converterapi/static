@@ -1,2 +1,2 @@
 # static
-static
+static files
